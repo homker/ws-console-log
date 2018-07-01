@@ -1,0 +1,28 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "a ws use for console",
+  "main": "index.js",
+  "workspaceFolder":"./server",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homker/ws-console-log.git"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "homker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/homker/ws-console-log/issues"
+  },
+  "homepage": "https://github.com/homker/ws-console-log#readme",
+  "dependencies": {
+    "koa-route": "^3.2.0",
+    "koa-websocket": "^5.0.1",
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
