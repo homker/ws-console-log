@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a ws use for console",
   "main": "index.js",
-  "workspaceFolder":"./server",
+  "workspaceFolder": "./server",
   "scripts": {
     "test": "test"
   },
@@ -24,5 +24,8 @@
     "koa-route": "^3.2.0",
     "koa-websocket": "^5.0.1",
     "koa2": "^2.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "vue-cli-plugin-vuetify": "^0.1.6"
   }
 }
